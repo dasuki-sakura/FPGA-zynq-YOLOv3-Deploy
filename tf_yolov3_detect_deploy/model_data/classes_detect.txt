@@ -1,0 +1,6 @@
+Car
+Cyclist
+Pedestrian
+Tram
+Tricycle
+Truck
